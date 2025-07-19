@@ -26,7 +26,7 @@
 1. **Clone the repo**
 
    ```bash
-   git clone https://github.com/your-username/shrek-boot.git
+   git clone https://github.com/RachMatriss/Shrek.git
    cd shrek-boot
    ```
 2. **Install dependencies**
