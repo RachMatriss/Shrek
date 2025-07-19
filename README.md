@@ -27,7 +27,7 @@
 
    ```bash
    git clone https://github.com/RachMatriss/Shrek.git
-   cd shrek-boot
+   cd shrek
    ```
 2. **Install dependencies**
 
