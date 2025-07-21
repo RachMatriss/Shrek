@@ -12,6 +12,11 @@ An improved AI-powered chat bot that brings Shrek to life using Mistral AI's adv
 - **Security**: API keys stored securely in environment variables
 - **User-Friendly**: Interactive commands and helpful prompts
 
+<!-- Local image (relative path) -->
+![Shrek Logo](shrek_v2.png)
+
+![Shrek](shrek_v2x.png)
+
 ## 🛠️ Installation
 
 1. **Clone the repository**:
