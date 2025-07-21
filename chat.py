@@ -24,7 +24,7 @@ class ShrekChatBot:
     def _get_api_key(self) -> str:
         """Securely get API key from environment variable"""
         #api_key = os.getenv("MISTRAL_API_KEY")
-        api_key = "wAXWy1eeUpdccaTA8pgFPhk24PEr0gV6"
+        api_key = ""
         if not api_key:
             print("❌ Error: MISTRAL_API_KEY environment variable not found")
             print("Please set your Mistral API key: export MISTRAL_API_KEY='your-key-here'")
